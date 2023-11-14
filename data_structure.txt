@@ -1,0 +1,11 @@
+./data
+	RhiresM/
+		(*.nc files)
+	SreIM
+		(*.nc files)
+	TabsM
+		(*.nc files)
+	TmaxM
+		(*.nc files)
+	TminM
+		(*.nc files)
